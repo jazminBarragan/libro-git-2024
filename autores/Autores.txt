@@ -1,1 +1,3 @@
 Autor 1: Jazmin
+Autor 2: -Juan Pablo
+	 - Email:juan@gmail.com 
